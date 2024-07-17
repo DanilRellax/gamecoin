@@ -1,0 +1,14 @@
+{
+  "main.css": "./static/css/main.69cdaac0.chunk.css",
+  "main.js": "./static/js/main.863450b9.chunk.js",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "static/css/2.816135aa.chunk.css": "./static/css/2.816135aa.chunk.css",
+  "static/js/2.904a6413.chunk.js": "./static/js/2.904a6413.chunk.js",
+  "index.html": "./index.html",
+  "precache-manifest.cb50757bb54e6d421813a9916b0c989f.js": "./precache-manifest.cb50757bb54e6d421813a9916b0c989f.js",
+  "service-worker.js": "./service-worker.js",
+  "static/media/avatar.png": "./static/media/avatar.dcc00849.png",
+  "static/media/coin.svg": "./static/media/coin.1015c157.svg",
+  "static/media/market.svg": "./static/media/market.f6ee5f37.svg",
+  "static/media/rating.svg": "./static/media/rating.bba6aca4.svg"
+}
